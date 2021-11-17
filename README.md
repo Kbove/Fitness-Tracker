@@ -27,9 +27,7 @@
     
 ## Tests <a id="Tests"></a>
     Tests: lots
-    
-    ![Screenshot](https://user-images.githubusercontent.com/89953218/142165566-f600af62-e18e-40c1-b60e-a890496d575d.JPG)
-    
+        
 ## Questions <a id="Question"></a>
     Frequently Asked Questions: will it work?
     
